@@ -9,6 +9,20 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 ### Changed
 
 
+## [3.2.0-rc.2] - 2026-02-03
+### Added
+- Add support for generation of diff reports at the same time (TEDM2O-12).
+
+### Changed
+- Reorganize and improve transform and diff workflows to enable multi-module support (TEDM2O-12).
+- Update workflow description in README to reflect the changes (TEDM2O-12).
+
+### Fixed
+- Enforce sequential execution of transform and diff workflows (TEDM2O-12).
+- Update installation steps in the transformation workflow (TEDM2O-12).
+- Implement selection of the correct configuration file for the generation of combined glossaries (TEDM2O-13).
+
+
 ## [3.2.0-rc.1] - 2025-12-09
 ### Added
 - Add automated workflow for generation of RDF diff reports (TEDM2O-12).
