@@ -3,12 +3,12 @@
 
 
 
-This report is automatically generated from the diffusDrzBr5Us RDF dataset on 03-Feb-2026T12:19:17
+This report is automatically generated from the diffusgftdFTr3 RDF dataset on 03-Feb-2026T13:41:12
 and aims at presenting the difference between two versions of an RDFS/OWL vocabulary following the owl-core-en-only application profile.
 
 == Report details
 
-*Dataset ID:* diffusDrzBr5Us
+*Dataset ID:* diffusgftdFTr3
 
 *Dataset name:* diffus
 
@@ -16,7 +16,7 @@ and aims at presenting the difference between two versions of an RDFS/OWL vocabu
 
 *New version file:* new_combined.ttl
 
-*Time:* 03-Feb-2026T12:19:17
+*Time:* 03-Feb-2026T13:41:12
 
 *Application profile:* owl-core-en-only
 
