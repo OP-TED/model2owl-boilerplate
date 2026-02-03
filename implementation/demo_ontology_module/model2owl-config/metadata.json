@@ -93,27 +93,27 @@
         "projectLocalResources": [
             {
                 "name": "OWL core file",
-                "path": "owl_ontology/demo_ontology_CM.rdf"
+                "path": "owl_ontology/demo_ontology_module.rdf"
             },
             {
                 "name": "OWL restrictions file",
-                "path": "owl_ontology/demo_ontology_CM_restrictions.rdf"
+                "path": "owl_ontology/demo_ontology_module_restrictions.rdf"
             },
             {
                 "name": "SHACL shapes file (RDF)",
-                "path": "shacl_shapes/demo_ontology_CM_shapes.rdf"
+                "path": "shacl_shapes/demo_ontology_module_shapes.rdf"
             },
             {
                 "name": "SHACL shapes file (TTL)",
-                "path": "shacl_shapes/demo_ontology_CM_shapes.ttl"
+                "path": "shacl_shapes/demo_ontology_module_shapes.ttl"
             },
             {
                 "name": "JSON-LD context file",
-                "path": "jsonld_context/demo_ontology_CM_context.jsonld"
+                "path": "jsonld_context/demo_ontology_module_context.jsonld"
             },
             {
                 "name": "UML XMI model file",
-                "path": "xmi_conceptual_model/demo_ontology_CM.xml"
+                "path": "xmi_conceptual_model/demo_ontology_module.xml"
             },
             {
                 "name": "UML EAP model file",
