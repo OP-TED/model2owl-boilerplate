@@ -70,7 +70,7 @@ jobs:
           ref: ${{ github.ref }}
 
       - name: Clone model2owl
-        run: git clone --branch release/3.2.0 https://github.com/OP-TED/model2owl.git
+        run: git clone --branch develop https://github.com/OP-TED/model2owl.git
 
       - name: Setup model2owl
         run: |
@@ -177,7 +177,7 @@ jobs:
           ref: ${{ github.ref }}
 
       - name: Clone model2owl
-        run: git clone --branch release/3.2.0 https://github.com/OP-TED/model2owl.git
+        run: git clone --branch develop https://github.com/OP-TED/model2owl.git
 
       - name: Setup model2owl
         run: |
@@ -254,7 +254,7 @@ jobs:
           ref: ${{ github.ref }}
 
       - name: Clone model2owl
-        run: git clone --branch release/3.2.0 https://github.com/OP-TED/model2owl.git
+        run: git clone --branch develop https://github.com/OP-TED/model2owl.git
 
       - name: Setup model2owl
         run: |
@@ -313,7 +313,7 @@ jobs:
           path: implementation/
 
       - name: Clone model2owl
-        run: git clone --branch release/3.2.0 https://github.com/OP-TED/model2owl.git
+        run: git clone --branch develop https://github.com/OP-TED/model2owl.git
 
       - name: Setup model2owl
         run: |
