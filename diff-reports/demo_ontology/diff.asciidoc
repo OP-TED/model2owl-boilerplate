@@ -3,12 +3,12 @@
 
 
 
-This report is automatically generated from the diffusjYuJoLX6 RDF dataset on 03-Feb-2026T18:05:03
+This report is automatically generated from the diffusETGYDDNw RDF dataset on 11-Mar-2026T10:53:37
 and aims at presenting the difference between two versions of an RDFS/OWL vocabulary following the owl-core-en-only application profile.
 
 == Report details
 
-*Dataset ID:* diffusjYuJoLX6
+*Dataset ID:* diffusETGYDDNw
 
 *Dataset name:* diffus
 
@@ -16,7 +16,7 @@ and aims at presenting the difference between two versions of an RDFS/OWL vocabu
 
 *New version file:* new_combined.ttl
 
-*Time:* 03-Feb-2026T18:05:03
+*Time:* 11-Mar-2026T10:53:37
 
 *Application profile:* owl-core-en-only
 
@@ -6429,7 +6429,7 @@ and aims at presenting the difference between two versions of an RDFS/OWL vocabu
         
             
             
-|This version is automatically generated from demo_ontology.xml on 2026-02-03
+|This version is automatically generated from demo_ontology.xml on 2026-03-11
             
         
             
@@ -6857,7 +6857,7 @@ and aims at presenting the difference between two versions of an RDFS/OWL vocabu
         
             
             
-|2026-02-03
+|2026-03-11
             
         
             
