@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "conventionReportCopyrightText": "Seu Nome / Sua Organização, 2026",
+    "conventionReportAuthor": "Seu Nome",
+    "conventionReportAuthorLocation": "Brasil",
+    "conventionReportUMLModelName": "Modelo Pessoa e Endereco",
+    "ontologyTitleCore": "Ontologia Pessoa Core",
+    "ontologyTitleRestrictions": "Ontologia Pessoa Restricoes",
+    "ontologyTitleShapes": "Ontologia Pessoa Shapes SHACL",
+    "ontologyDescriptionCore": "Ontologia basica para representacao do dominio de Pessoas e Enderecos.",
+    "ontologyDescriptionRestrictions": "Restricoes e especificacoes de inferencia para a Ontologia Pessoa.",
+    "ontologyDescriptionShapes": "Validacoes e restricoes de formato SHACL para a Ontologia Pessoa.",
+    "createdDate": "2026-07-22",
+    "versionInfo": "1.0.0",
+    "preferredNamespaceUri": "http://exemplo.org/ontologia/pessoa#",
+    "preferredNamespacePrefix": "ex",
+    "status": "Draft",
+    "title": "Documentacao da Ontologia Pessoa",
+    "projectLocalResources": [
+      {
+        "name": "Modelo UML XMI",
+        "path": "xmi_conceptual_model/exemplo_pessoa.xml"
+      }
+    ]
+  },
+  "customMetadata": {
+    "metadataSectionProperties": [
+      {
+        "key": "Documentacao Relacionada",
+        "data": [
+          {
+            "value": "Repositorio do Projeto",
+            "href": "https://github.com/SEU_USUARIO/model2owl-boilerplate"
+          }
+        ]
+      }
+    ]
+  }
+}

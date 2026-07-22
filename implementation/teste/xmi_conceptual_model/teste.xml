@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XMI xmi.version="2.1" xmlns:uml="http://www.omg.org/spec/UML/20090901">
+  <uml:Model xmi:id="model1" name="ExemploModelo">
+    <packagedElement xmi:type="uml:Class" xmi:id="class1" name="Pessoa">
+      <ownedAttribute xmi:id="attr1" name="nome" type="String"/>
+      <ownedAttribute xmi:id="attr2" name="idade" type="Integer"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Class" xmi:id="class2" name="Endereco">
+      <ownedAttribute xmi:id="attr3" name="rua" type="String"/>
+    </packagedElement>
+    <packagedElement xmi:type="uml:Association" xmi:id="assoc1">
+      <memberEnd xmi:idref="attr1"/>
+      <memberEnd xmi:idref="attr3"/>
+    </packagedElement>
+  </uml:Model>
+</XMI>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mappings xmlns="http://publications.europa.eu/ns/">
+    
+    <!-- Mapeamento de tipos customizados no prefixo 'ex' -->
+    <mapping>
+        <from qname="ex:Indicator"/>
+        <to qname="xsd:boolean"/>
+    </mapping>
+    <mapping>
+        <from qname="ex:Date"/>
+        <to qname="xsd:date"/>
+    </mapping>
+    <mapping>
+        <from qname="ex:DateTime"/>
+        <to qname="xsd:dateTime"/>
+    </mapping>    
+    <mapping>
+        <from qname="ex:Numeric"/>
+        <to qname="xsd:decimal"/>
+    </mapping>
+    <mapping>
+        <from qname="ex:Text"/>
+        <to qname="rdfs:Literal"/>
+    </mapping>
+    <mapping>
+        <from qname="ex:Time"/>
+        <to qname="xsd:time"/>
+    </mapping>
+    <mapping>
+        <from qname="ex:URI"/>
+        <to qname="xsd:anyURI"/>
+    </mapping>
+    <mapping>
+        <from qname="ex:Integer"/>
+        <to qname="xsd:integer"/>
+    </mapping>
+    <mapping>
+        <from qname="ex:Code"/>
+        <to qname="skos:Concept"/>
+    </mapping>
+
+    <!-- Mapeamento de tipos nativos UML / Primários -->
+    <mapping>
+        <from qname="String"/>
+        <to qname="xsd:string"/>
+    </mapping>
+    <mapping>
+        <from qname="Integer"/>
+        <to qname="xsd:integer"/>
+    </mapping>
+    <mapping>
+        <from qname="Boolean"/>
+        <to qname="xsd:boolean"/>
+    </mapping>
+    <mapping>
+        <from qname="Date"/>
+        <to qname="xsd:date"/>
+    </mapping>
+    <mapping>
+        <from qname="DateTime"/>
+        <to qname="xsd:dateTime"/>
+    </mapping>
+
+</mappings>

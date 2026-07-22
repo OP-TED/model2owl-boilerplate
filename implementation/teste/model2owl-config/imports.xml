@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<imports xmlns="http://publications.europa.eu/ns/">
+    <!-- Importações comuns para todos os artefatos (Core, Restrictions e SHACL) -->
+    <all>
+        <import uri="http://purl.org/dc/terms/"/>
+        <import uri="http://www.w3.org/2004/02/skos/core#"/>
+        <import uri="http://www.w3.org/2000/01/rdf-schema#"/>
+    </all>
+    <!-- Importações específicas para o artefato Core (Opcional) -->
+    <core></core>
+    <!-- Importações específicas para o artefato Restrictions (Opcional) -->
+    <restrictions></restrictions>
+    <!-- Importações específicas para o artefato SHACL (Opcional) -->
+    <shacl></shacl>
+</imports>
